@@ -6,13 +6,18 @@ begin
   Jeweler::Tasks.new do |gem|
     gem.name = "activity_streams"
     gem.summary = %Q{Ruby module to eat and parse ActivityStreams in various formats}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.description = %Q{Ruby module to eat and parse ActivityStreams in various formats}
     gem.email = "root@cpan.org"
     gem.homepage = "http://github.com/rubenfonseca/activity_streams"
     gem.authors = ["Ruben Fonseca"]
     gem.add_development_dependency "rspec", ">= 1.2.9"
     gem.add_development_dependency "yard", ">= 0"
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
+    
+    gem.add_dependency "sax-machine", ">= 0.0.15"
+    gem.add_dependency "feedzirra"
+    gem.add_dependency "json"
+    gem.add_dependency "hashie"
   end
   Jeweler::GemcutterTasks.new
 rescue LoadError

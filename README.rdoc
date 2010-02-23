@@ -1,6 +1,24 @@
 = activity_streams
 
-Description goes here.
+Very early activitystream parser (http://activitystrea.ms/). The goal is to eat XML or JSON
+descriptions of ActivityStreams and give a common interface to query the information on them.
+More source formats may be included in the future.
+
+Example usage:
+  require 'rubygems'
+  require 'activity_streams'
+  require 'open-uri'
+  
+  twitter = 'http://api.cliqset.com/feed/?svcuser=rubenfonseca&feedid=twitternotesposted'
+  feed = ActivityStreams::Feed.from_xml(open(twitter).read)
+  feed.entries.size #=> 20
+  feed.entries.first.verbs.size #=> 1
+  feed.entries.first.verbs.first #=> "http://activitystrea.ms/schema/1.0/post"
+  ...
+
+This module is in the very early stages, alpha quality :) Have fun!
+
+If you have any question, start by looking into the _spec_ directory.
 
 == Note on Patches/Pull Requests
  
