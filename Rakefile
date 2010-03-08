@@ -8,7 +8,7 @@ begin
     gem.summary = %Q{Ruby module to eat and parse ActivityStreams in various formats}
     gem.description = %Q{Ruby module to eat and parse ActivityStreams in various formats}
     gem.email = "root@cpan.org"
-    gem.homepage = "http://github.com/rubenfonseca/activity_streams"
+    gem.homepage = "http://github.com/webcracy/activity_streams"
     gem.authors = ["Ruben Fonseca"]
     gem.add_development_dependency "rspec", ">= 1.2.9"
     gem.add_development_dependency "yard", ">= 0"

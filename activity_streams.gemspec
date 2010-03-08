@@ -35,10 +35,10 @@ Gem::Specification.new do |s|
      "spec/spec_helper.rb",
      "spec/twitter.xml"
   ]
-  s.homepage = %q{http://github.com/rubenfonseca/activity_streams}
+  s.homepage = %q{http://github.com/webcracy/activity_streams}
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
-  s.rubygems_version = %q{1.3.5}
+  s.rubygems_version = %q{1.3.6}
   s.summary = %q{Ruby module to eat and parse ActivityStreams in various formats}
   s.test_files = [
     "spec/activity_streams_spec.rb",
