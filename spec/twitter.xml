@@ -1,1 +1,545 @@
-<feed xmlns="http://www.w3.org/2005/Atom"><title type="text">Twitter / rubenfonseca</title><id>http://twitter.com/rubenfonseca</id><entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/"><activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb><published>2010-02-14T19:09:52.000Z</published><updated>2010-02-14T19:09:52.000Z</updated><id>http://twitter.com/rubenfonseca/statuses/9108531677</id><title type="text">rubenfonseca: @microft humm what about dropbox?</title><summary type="html">rubenfonseca: @microft humm what about dropbox?</summary><service:provider><name>twitter</name><uri>http://twitter.com</uri><icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon></service:provider><activity:object><activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type><content type="text">rubenfonseca: @microft humm what about dropbox?</content><link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/9108531677" /></activity:object><activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0"><activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type><title type="text">rubenfonseca</title><poco:name><poco:givenName>Ruben</poco:givenName><poco:familyName>Fonseca</poco:familyName></poco:name></activity:actor><link href="http://twitter.com/rubenfonseca/statuses/9108531677" /></entry><entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/"><activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb><published>2010-02-14T18:51:52.000Z</published><updated>2010-02-14T18:51:52.000Z</updated><id>http://twitter.com/rubenfonseca/statuses/9107967864</id><title type="text">rubenfonseca: @microft timemachine over a network drive? works for me :)</title><summary type="html">rubenfonseca: @microft timemachine over a network drive? works for me :)</summary><service:provider><name>twitter</name><uri>http://twitter.com</uri><icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon></service:provider><activity:object><activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type><content type="text">rubenfonseca: @microft timemachine over a network drive? works for me :)</content><link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/9107967864" /></activity:object><activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0"><activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type><title type="text">rubenfonseca</title><poco:name><poco:givenName>Ruben</poco:givenName><poco:familyName>Fonseca</poco:familyName></poco:name></activity:actor><link href="http://twitter.com/rubenfonseca/statuses/9107967864" /></entry><entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/"><activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb><published>2010-02-13T21:56:07.000Z</published><updated>2010-02-13T21:56:07.000Z</updated><id>http://twitter.com/rubenfonseca/statuses/9071665676</id><title type="text">rubenfonseca: RT @whys: selenium testing on the cloud by saucelabs http://dl.dropbox.com/u/3415837/SauceRC1_0.m4v</title><summary type="html">rubenfonseca: RT @whys: selenium testing on the cloud by saucelabs http://dl.dropbox.com/u/3415837/SauceRC1_0.m4v</summary><service:provider><name>twitter</name><uri>http://twitter.com</uri><icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon></service:provider><activity:object><activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type><content type="text">rubenfonseca: RT @whys: selenium testing on the cloud by saucelabs http://dl.dropbox.com/u/3415837/SauceRC1_0.m4v</content><link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/9071665676" /></activity:object><activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0"><activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type><title type="text">rubenfonseca</title><poco:name><poco:givenName>Ruben</poco:givenName><poco:familyName>Fonseca</poco:familyName></poco:name></activity:actor><link href="http://twitter.com/rubenfonseca/statuses/9071665676" /></entry><entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/"><activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb><published>2010-02-13T15:11:52.000Z</published><updated>2010-02-13T15:11:52.000Z</updated><id>http://twitter.com/rubenfonseca/statuses/9058447610</id><title type="text">rubenfonseca: @luismreis just trying hadoop and mahout status, already given up :/</title><summary type="html">rubenfonseca: @luismreis just trying hadoop and mahout status, already given up :/</summary><service:provider><name>twitter</name><uri>http://twitter.com</uri><icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon></service:provider><activity:object><activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type><content type="text">rubenfonseca: @luismreis just trying hadoop and mahout status, already given up :/</content><link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/9058447610" /></activity:object><activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0"><activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type><title type="text">rubenfonseca</title><poco:name><poco:givenName>Ruben</poco:givenName><poco:familyName>Fonseca</poco:familyName></poco:name></activity:actor><link href="http://twitter.com/rubenfonseca/statuses/9058447610" /></entry><entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/"><activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb><published>2010-02-13T14:58:47.000Z</published><updated>2010-02-13T14:58:47.000Z</updated><id>http://twitter.com/rubenfonseca/statuses/9057982874</id><title type="text">rubenfonseca: $ mvn install, and waiting for the whole universe to download...</title><summary type="html">rubenfonseca: $ mvn install, and waiting for the whole universe to download...</summary><service:provider><name>twitter</name><uri>http://twitter.com</uri><icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon></service:provider><activity:object><activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type><content type="text">rubenfonseca: $ mvn install, and waiting for the whole universe to download...</content><link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/9057982874" /></activity:object><activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0"><activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type><title type="text">rubenfonseca</title><poco:name><poco:givenName>Ruben</poco:givenName><poco:familyName>Fonseca</poco:familyName></poco:name></activity:actor><link href="http://twitter.com/rubenfonseca/statuses/9057982874" /></entry><entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/"><activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb><published>2010-02-13T14:17:21.000Z</published><updated>2010-02-13T14:17:21.000Z</updated><id>http://twitter.com/rubenfonseca/statuses/9056640185</id><title type="text">rubenfonseca: smartd: Device: /dev/sdb, 1 Offline uncorrectable sectors #oops #fail</title><summary type="html">rubenfonseca: smartd: Device: /dev/sdb, 1 Offline uncorrectable sectors #oops #fail</summary><service:provider><name>twitter</name><uri>http://twitter.com</uri><icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon></service:provider><activity:object><activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type><content type="text">rubenfonseca: smartd: Device: /dev/sdb, 1 Offline uncorrectable sectors #oops #fail</content><link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/9056640185" /></activity:object><activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0"><activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type><title type="text">rubenfonseca</title><poco:name><poco:givenName>Ruben</poco:givenName><poco:familyName>Fonseca</poco:familyName></poco:name></activity:actor><link href="http://twitter.com/rubenfonseca/statuses/9056640185" /></entry><entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/"><activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb><published>2010-02-12T19:18:22.000Z</published><updated>2010-02-12T19:18:22.000Z</updated><id>http://twitter.com/rubenfonseca/statuses/9021935460</id><title type="text">rubenfonseca: @bragarules eh o vorkat...</title><summary type="html">rubenfonseca: @bragarules eh o vorkat...</summary><service:provider><name>twitter</name><uri>http://twitter.com</uri><icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon></service:provider><activity:object><activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type><content type="text">rubenfonseca: @bragarules eh o vorkat...</content><link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/9021935460" /></activity:object><activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0"><activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type><title type="text">rubenfonseca</title><poco:name><poco:givenName>Ruben</poco:givenName><poco:familyName>Fonseca</poco:familyName></poco:name></activity:actor><link href="http://twitter.com/rubenfonseca/statuses/9021935460" /></entry><entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/"><activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb><published>2010-02-12T18:41:54.000Z</published><updated>2010-02-12T18:41:54.000Z</updated><id>http://twitter.com/rubenfonseca/statuses/9020619992</id><title type="text">rubenfonseca: RT @nunoveloso: RT @schroder: facebook account closed for real! :D if i get 20 retweets i'll close my twitter account to! :D</title><summary type="html">rubenfonseca: RT @nunoveloso: RT @schroder: facebook account closed for real! :D if i get 20 retweets i'll close my twitter account to! :D</summary><service:provider><name>twitter</name><uri>http://twitter.com</uri><icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon></service:provider><activity:object><activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type><content type="text">rubenfonseca: RT @nunoveloso: RT @schroder: facebook account closed for real! :D if i get 20 retweets i'll close my twitter account to! :D</content><link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/9020619992" /></activity:object><activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0"><activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type><title type="text">rubenfonseca</title><poco:name><poco:givenName>Ruben</poco:givenName><poco:familyName>Fonseca</poco:familyName></poco:name></activity:actor><link href="http://twitter.com/rubenfonseca/statuses/9020619992" /></entry><entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/"><activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb><published>2010-02-12T11:12:52.000Z</published><updated>2010-02-12T11:12:52.000Z</updated><id>http://twitter.com/rubenfonseca/statuses/9004371457</id><title type="text">rubenfonseca: @tiagosa definitely, it is on my todo list :/</title><summary type="html">rubenfonseca: @tiagosa definitely, it is on my todo list :/</summary><service:provider><name>twitter</name><uri>http://twitter.com</uri><icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon></service:provider><activity:object><activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type><content type="text">rubenfonseca: @tiagosa definitely, it is on my todo list :/</content><link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/9004371457" /></activity:object><activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0"><activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type><title type="text">rubenfonseca</title><poco:name><poco:givenName>Ruben</poco:givenName><poco:familyName>Fonseca</poco:familyName></poco:name></activity:actor><link href="http://twitter.com/rubenfonseca/statuses/9004371457" /></entry><entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/"><activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb><published>2010-02-12T11:02:02.000Z</published><updated>2010-02-12T11:02:02.000Z</updated><id>http://twitter.com/rubenfonseca/statuses/9004108144</id><title type="text">rubenfonseca: Another pair of AA batteries for the Magic Mouse please!</title><summary type="html">rubenfonseca: Another pair of AA batteries for the Magic Mouse please!</summary><service:provider><name>twitter</name><uri>http://twitter.com</uri><icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon></service:provider><activity:object><activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type><content type="text">rubenfonseca: Another pair of AA batteries for the Magic Mouse please!</content><link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/9004108144" /></activity:object><activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0"><activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type><title type="text">rubenfonseca</title><poco:name><poco:givenName>Ruben</poco:givenName><poco:familyName>Fonseca</poco:familyName></poco:name></activity:actor><link href="http://twitter.com/rubenfonseca/statuses/9004108144" /></entry><entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/"><activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb><published>2010-02-12T10:43:12.000Z</published><updated>2010-02-12T10:43:12.000Z</updated><id>http://twitter.com/rubenfonseca/statuses/9003670777</id><title type="text">rubenfonseca: @changelogshow sure! will do, thank you :)</title><summary type="html">rubenfonseca: @changelogshow sure! will do, thank you :)</summary><service:provider><name>twitter</name><uri>http://twitter.com</uri><icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon></service:provider><activity:object><activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type><content type="text">rubenfonseca: @changelogshow sure! will do, thank you :)</content><link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/9003670777" /></activity:object><activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0"><activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type><title type="text">rubenfonseca</title><poco:name><poco:givenName>Ruben</poco:givenName><poco:familyName>Fonseca</poco:familyName></poco:name></activity:actor><link href="http://twitter.com/rubenfonseca/statuses/9003670777" /></entry><entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/"><activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb><published>2010-02-12T10:34:51.000Z</published><updated>2010-02-12T10:34:51.000Z</updated><id>http://twitter.com/rubenfonseca/statuses/9003486173</id><title type="text">rubenfonseca: RT @pedro_mg: will have to speed up solar energy production at home. See... I have a wireless apple mouse and keyboard; perhaps a nuclea ...</title><summary type="html">rubenfonseca: RT @pedro_mg: will have to speed up solar energy production at home. See... I have a wireless apple mouse and keyboard; perhaps a nuclea ...</summary><service:provider><name>twitter</name><uri>http://twitter.com</uri><icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon></service:provider><activity:object><activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type><content type="text">rubenfonseca: RT @pedro_mg: will have to speed up solar energy production at home. See... I have a wireless apple mouse and keyboard; perhaps a nuclea ...</content><link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/9003486173" /></activity:object><activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0"><activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type><title type="text">rubenfonseca</title><poco:name><poco:givenName>Ruben</poco:givenName><poco:familyName>Fonseca</poco:familyName></poco:name></activity:actor><link href="http://twitter.com/rubenfonseca/statuses/9003486173" /></entry><entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/"><activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb><published>2010-02-11T22:08:00.000Z</published><updated>2010-02-11T22:08:00.000Z</updated><id>http://twitter.com/rubenfonseca/statuses/8979943279</id><title type="text">rubenfonseca: @changelogshow is there an API or Firehose for the Github timeline? Can you give us more details about the tail implementation? thank you!</title><summary type="html">rubenfonseca: @changelogshow is there an API or Firehose for the Github timeline? Can you give us more details about the tail implementation? thank you!</summary><service:provider><name>twitter</name><uri>http://twitter.com</uri><icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon></service:provider><activity:object><activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type><content type="text">rubenfonseca: @changelogshow is there an API or Firehose for the Github timeline? Can you give us more details about the tail implementation? thank you!</content><link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/8979943279" /></activity:object><activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0"><activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type><title type="text">rubenfonseca</title><poco:name><poco:givenName>Ruben</poco:givenName><poco:familyName>Fonseca</poco:familyName></poco:name></activity:actor><link href="http://twitter.com/rubenfonseca/statuses/8979943279" /></entry><entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/"><activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb><published>2010-02-11T21:38:43.000Z</published><updated>2010-02-11T21:38:43.000Z</updated><id>http://twitter.com/rubenfonseca/statuses/8978850067</id><title type="text">rubenfonseca: RT @fosdem: Video's coming online: http://video.fosdem.org/2010/</title><summary type="html">rubenfonseca: RT @fosdem: Video's coming online: http://video.fosdem.org/2010/</summary><service:provider><name>twitter</name><uri>http://twitter.com</uri><icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon></service:provider><activity:object><activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type><content type="text">rubenfonseca: RT @fosdem: Video's coming online: http://video.fosdem.org/2010/</content><link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/8978850067" /></activity:object><activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0"><activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type><title type="text">rubenfonseca</title><poco:name><poco:givenName>Ruben</poco:givenName><poco:familyName>Fonseca</poco:familyName></poco:name></activity:actor><link href="http://twitter.com/rubenfonseca/statuses/8978850067" /></entry><entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/"><activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb><published>2010-02-11T20:57:10.000Z</published><updated>2010-02-11T20:57:10.000Z</updated><id>http://twitter.com/rubenfonseca/statuses/8977340054</id><title type="text">rubenfonseca: (clara de sousa)-- (#moura #guedes #wannabe)</title><summary type="html">rubenfonseca: (clara de sousa)-- (#moura #guedes #wannabe)</summary><service:provider><name>twitter</name><uri>http://twitter.com</uri><icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon></service:provider><activity:object><activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type><content type="text">rubenfonseca: (clara de sousa)-- (#moura #guedes #wannabe)</content><link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/8977340054" /></activity:object><activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0"><activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type><title type="text">rubenfonseca</title><poco:name><poco:givenName>Ruben</poco:givenName><poco:familyName>Fonseca</poco:familyName></poco:name></activity:actor><link href="http://twitter.com/rubenfonseca/statuses/8977340054" /></entry><entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/"><activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb><published>2010-02-11T16:43:30.000Z</published><updated>2010-02-11T16:43:30.000Z</updated><id>http://twitter.com/rubenfonseca/statuses/8968055841</id><title type="text">rubenfonseca: @alcides pah isso cheira mesmo a treta de quem so la foi encaixar o cabo, e portanto inventou alta cena "frequencias" pra parecer dificíl :P</title><summary type="html">rubenfonseca: @alcides pah isso cheira mesmo a treta de quem so la foi encaixar o cabo, e portanto inventou alta cena "frequencias" pra parecer dificíl :P</summary><service:provider><name>twitter</name><uri>http://twitter.com</uri><icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon></service:provider><activity:object><activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type><content type="text">rubenfonseca: @alcides pah isso cheira mesmo a treta de quem so la foi encaixar o cabo, e portanto inventou alta cena "frequencias" pra parecer dificíl :P</content><link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/8968055841" /></activity:object><activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0"><activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type><title type="text">rubenfonseca</title><poco:name><poco:givenName>Ruben</poco:givenName><poco:familyName>Fonseca</poco:familyName></poco:name></activity:actor><link href="http://twitter.com/rubenfonseca/statuses/8968055841" /></entry><entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/"><activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb><published>2010-02-11T16:22:50.000Z</published><updated>2010-02-11T16:22:50.000Z</updated><id>http://twitter.com/rubenfonseca/statuses/8967222405</id><title type="text">rubenfonseca: @alcides encaixou melhor o cabo foi? :P</title><summary type="html">rubenfonseca: @alcides encaixou melhor o cabo foi? :P</summary><service:provider><name>twitter</name><uri>http://twitter.com</uri><icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon></service:provider><activity:object><activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type><content type="text">rubenfonseca: @alcides encaixou melhor o cabo foi? :P</content><link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/8967222405" /></activity:object><activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0"><activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type><title type="text">rubenfonseca</title><poco:name><poco:givenName>Ruben</poco:givenName><poco:familyName>Fonseca</poco:familyName></poco:name></activity:actor><link href="http://twitter.com/rubenfonseca/statuses/8967222405" /></entry><entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/"><activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb><published>2010-02-11T15:32:44.000Z</published><updated>2010-02-11T15:32:44.000Z</updated><id>http://twitter.com/rubenfonseca/statuses/8965196963</id><title type="text">rubenfonseca: feeling sick :/</title><summary type="html">rubenfonseca: feeling sick :/</summary><service:provider><name>twitter</name><uri>http://twitter.com</uri><icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon></service:provider><activity:object><activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type><content type="text">rubenfonseca: feeling sick :/</content><link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/8965196963" /></activity:object><activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0"><activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type><title type="text">rubenfonseca</title><poco:name><poco:givenName>Ruben</poco:givenName><poco:familyName>Fonseca</poco:familyName></poco:name></activity:actor><link href="http://twitter.com/rubenfonseca/statuses/8965196963" /></entry><entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/"><activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb><published>2010-02-11T14:07:50.000Z</published><updated>2010-02-11T14:07:50.000Z</updated><id>http://twitter.com/rubenfonseca/statuses/8961937819</id><title type="text">rubenfonseca: @sergio definitely! also the "privacy flaw" that shows the people I email the most is a huge #fail for google :/</title><summary type="html">rubenfonseca: @sergio definitely! also the "privacy flaw" that shows the people I email the most is a huge #fail for google :/</summary><service:provider><name>twitter</name><uri>http://twitter.com</uri><icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon></service:provider><activity:object><activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type><content type="text">rubenfonseca: @sergio definitely! also the "privacy flaw" that shows the people I email the most is a huge #fail for google :/</content><link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/8961937819" /></activity:object><activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0"><activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type><title type="text">rubenfonseca</title><poco:name><poco:givenName>Ruben</poco:givenName><poco:familyName>Fonseca</poco:familyName></poco:name></activity:actor><link href="http://twitter.com/rubenfonseca/statuses/8961937819" /></entry><entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/"><activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb><published>2010-02-11T14:05:13.000Z</published><updated>2010-02-11T14:05:13.000Z</updated><id>http://twitter.com/rubenfonseca/statuses/8961842488</id><title type="text">rubenfonseca: I'm convinced that in some companies, you are required to nag your friends every month to work for the company to receive your salary</title><summary type="html">rubenfonseca: I'm convinced that in some companies, you are required to nag your friends every month to work for the company to receive your salary</summary><service:provider><name>twitter</name><uri>http://twitter.com</uri><icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon></service:provider><activity:object><activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type><content type="text">rubenfonseca: I'm convinced that in some companies, you are required to nag your friends every month to work for the company to receive your salary</content><link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/8961842488" /></activity:object><activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0"><activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type><title type="text">rubenfonseca</title><poco:name><poco:givenName>Ruben</poco:givenName><poco:familyName>Fonseca</poco:familyName></poco:name></activity:actor><link href="http://twitter.com/rubenfonseca/statuses/8961842488" /></entry></feed>
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Twitter / rubenfonseca</title>
+  <id>http://twitter.com/rubenfonseca</id>
+  <entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <published>2010-02-14T19:09:52.000Z</published>
+    <updated>2010-02-14T19:09:52.000Z</updated>
+    <id>http://twitter.com/rubenfonseca/statuses/9108531677</id>
+    <title type="text">rubenfonseca: @microft humm what about dropbox?</title>
+    <summary type="html">rubenfonseca: @microft humm what about dropbox?</summary>
+    <service:provider>
+      <name>twitter</name>
+      <uri>http://twitter.com</uri>
+      <icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon>
+    </service:provider>
+    <activity:object>
+      <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+      <content type="text">rubenfonseca: @microft humm what about dropbox?</content>
+      <link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/9108531677"/>
+    </activity:object>
+    <activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0">
+      <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+      <title type="text">rubenfonseca</title>
+      <poco:name>
+        <poco:givenName>Ruben</poco:givenName>
+        <poco:familyName>Fonseca</poco:familyName>
+      </poco:name>
+    </activity:actor>
+    <link href="http://twitter.com/rubenfonseca/statuses/9108531677"/>
+  </entry>
+  <entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <published>2010-02-14T18:51:52.000Z</published>
+    <updated>2010-02-14T18:51:52.000Z</updated>
+    <id>http://twitter.com/rubenfonseca/statuses/9107967864</id>
+    <title type="text">rubenfonseca: @microft timemachine over a network drive? works for me :)</title>
+    <summary type="html">rubenfonseca: @microft timemachine over a network drive? works for me :)</summary>
+    <service:provider>
+      <name>twitter</name>
+      <uri>http://twitter.com</uri>
+      <icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon>
+    </service:provider>
+    <activity:object>
+      <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+      <content type="text">rubenfonseca: @microft timemachine over a network drive? works for me :)</content>
+      <link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/9107967864"/>
+    </activity:object>
+    <activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0">
+      <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+      <title type="text">rubenfonseca</title>
+      <poco:name>
+        <poco:givenName>Ruben</poco:givenName>
+        <poco:familyName>Fonseca</poco:familyName>
+      </poco:name>
+    </activity:actor>
+    <link href="http://twitter.com/rubenfonseca/statuses/9107967864"/>
+  </entry>
+  <entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <published>2010-02-13T21:56:07.000Z</published>
+    <updated>2010-02-13T21:56:07.000Z</updated>
+    <id>http://twitter.com/rubenfonseca/statuses/9071665676</id>
+    <title type="text">rubenfonseca: RT @whys: selenium testing on the cloud by saucelabs http://dl.dropbox.com/u/3415837/SauceRC1_0.m4v</title>
+    <summary type="html">rubenfonseca: RT @whys: selenium testing on the cloud by saucelabs http://dl.dropbox.com/u/3415837/SauceRC1_0.m4v</summary>
+    <service:provider>
+      <name>twitter</name>
+      <uri>http://twitter.com</uri>
+      <icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon>
+    </service:provider>
+    <activity:object>
+      <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+      <content type="text">rubenfonseca: RT @whys: selenium testing on the cloud by saucelabs http://dl.dropbox.com/u/3415837/SauceRC1_0.m4v</content>
+      <link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/9071665676"/>
+    </activity:object>
+    <activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0">
+      <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+      <title type="text">rubenfonseca</title>
+      <poco:name>
+        <poco:givenName>Ruben</poco:givenName>
+        <poco:familyName>Fonseca</poco:familyName>
+      </poco:name>
+    </activity:actor>
+    <link href="http://twitter.com/rubenfonseca/statuses/9071665676"/>
+  </entry>
+  <entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <published>2010-02-13T15:11:52.000Z</published>
+    <updated>2010-02-13T15:11:52.000Z</updated>
+    <id>http://twitter.com/rubenfonseca/statuses/9058447610</id>
+    <title type="text">rubenfonseca: @luismreis just trying hadoop and mahout status, already given up :/</title>
+    <summary type="html">rubenfonseca: @luismreis just trying hadoop and mahout status, already given up :/</summary>
+    <service:provider>
+      <name>twitter</name>
+      <uri>http://twitter.com</uri>
+      <icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon>
+    </service:provider>
+    <activity:object>
+      <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+      <content type="text">rubenfonseca: @luismreis just trying hadoop and mahout status, already given up :/</content>
+      <link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/9058447610"/>
+    </activity:object>
+    <activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0">
+      <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+      <title type="text">rubenfonseca</title>
+      <poco:name>
+        <poco:givenName>Ruben</poco:givenName>
+        <poco:familyName>Fonseca</poco:familyName>
+      </poco:name>
+    </activity:actor>
+    <link href="http://twitter.com/rubenfonseca/statuses/9058447610"/>
+  </entry>
+  <entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <published>2010-02-13T14:58:47.000Z</published>
+    <updated>2010-02-13T14:58:47.000Z</updated>
+    <id>http://twitter.com/rubenfonseca/statuses/9057982874</id>
+    <title type="text">rubenfonseca: $ mvn install, and waiting for the whole universe to download...</title>
+    <summary type="html">rubenfonseca: $ mvn install, and waiting for the whole universe to download...</summary>
+    <service:provider>
+      <name>twitter</name>
+      <uri>http://twitter.com</uri>
+      <icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon>
+    </service:provider>
+    <activity:object>
+      <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+      <content type="text">rubenfonseca: $ mvn install, and waiting for the whole universe to download...</content>
+      <link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/9057982874"/>
+    </activity:object>
+    <activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0">
+      <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+      <title type="text">rubenfonseca</title>
+      <poco:name>
+        <poco:givenName>Ruben</poco:givenName>
+        <poco:familyName>Fonseca</poco:familyName>
+      </poco:name>
+    </activity:actor>
+    <link href="http://twitter.com/rubenfonseca/statuses/9057982874"/>
+  </entry>
+  <entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <published>2010-02-13T14:17:21.000Z</published>
+    <updated>2010-02-13T14:17:21.000Z</updated>
+    <id>http://twitter.com/rubenfonseca/statuses/9056640185</id>
+    <title type="text">rubenfonseca: smartd: Device: /dev/sdb, 1 Offline uncorrectable sectors #oops #fail</title>
+    <summary type="html">rubenfonseca: smartd: Device: /dev/sdb, 1 Offline uncorrectable sectors #oops #fail</summary>
+    <service:provider>
+      <name>twitter</name>
+      <uri>http://twitter.com</uri>
+      <icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon>
+    </service:provider>
+    <activity:object>
+      <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+      <content type="text">rubenfonseca: smartd: Device: /dev/sdb, 1 Offline uncorrectable sectors #oops #fail</content>
+      <link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/9056640185"/>
+    </activity:object>
+    <activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0">
+      <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+      <title type="text">rubenfonseca</title>
+      <poco:name>
+        <poco:givenName>Ruben</poco:givenName>
+        <poco:familyName>Fonseca</poco:familyName>
+      </poco:name>
+    </activity:actor>
+    <link href="http://twitter.com/rubenfonseca/statuses/9056640185"/>
+  </entry>
+  <entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <published>2010-02-12T19:18:22.000Z</published>
+    <updated>2010-02-12T19:18:22.000Z</updated>
+    <id>http://twitter.com/rubenfonseca/statuses/9021935460</id>
+    <title type="text">rubenfonseca: @bragarules eh o vorkat...</title>
+    <summary type="html">rubenfonseca: @bragarules eh o vorkat...</summary>
+    <service:provider>
+      <name>twitter</name>
+      <uri>http://twitter.com</uri>
+      <icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon>
+    </service:provider>
+    <activity:object>
+      <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+      <content type="text">rubenfonseca: @bragarules eh o vorkat...</content>
+      <link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/9021935460"/>
+    </activity:object>
+    <activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0">
+      <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+      <title type="text">rubenfonseca</title>
+      <poco:name>
+        <poco:givenName>Ruben</poco:givenName>
+        <poco:familyName>Fonseca</poco:familyName>
+      </poco:name>
+    </activity:actor>
+    <link href="http://twitter.com/rubenfonseca/statuses/9021935460"/>
+  </entry>
+  <entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <published>2010-02-12T18:41:54.000Z</published>
+    <updated>2010-02-12T18:41:54.000Z</updated>
+    <id>http://twitter.com/rubenfonseca/statuses/9020619992</id>
+    <title type="text">rubenfonseca: RT @nunoveloso: RT @schroder: facebook account closed for real! :D if i get 20 retweets i'll close my twitter account to! :D</title>
+    <summary type="html">rubenfonseca: RT @nunoveloso: RT @schroder: facebook account closed for real! :D if i get 20 retweets i'll close my twitter account to! :D</summary>
+    <service:provider>
+      <name>twitter</name>
+      <uri>http://twitter.com</uri>
+      <icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon>
+    </service:provider>
+    <activity:object>
+      <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+      <content type="text">rubenfonseca: RT @nunoveloso: RT @schroder: facebook account closed for real! :D if i get 20 retweets i'll close my twitter account to! :D</content>
+      <link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/9020619992"/>
+    </activity:object>
+    <activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0">
+      <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+      <title type="text">rubenfonseca</title>
+      <poco:name>
+        <poco:givenName>Ruben</poco:givenName>
+        <poco:familyName>Fonseca</poco:familyName>
+      </poco:name>
+    </activity:actor>
+    <link href="http://twitter.com/rubenfonseca/statuses/9020619992"/>
+  </entry>
+  <entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <published>2010-02-12T11:12:52.000Z</published>
+    <updated>2010-02-12T11:12:52.000Z</updated>
+    <id>http://twitter.com/rubenfonseca/statuses/9004371457</id>
+    <title type="text">rubenfonseca: @tiagosa definitely, it is on my todo list :/</title>
+    <summary type="html">rubenfonseca: @tiagosa definitely, it is on my todo list :/</summary>
+    <service:provider>
+      <name>twitter</name>
+      <uri>http://twitter.com</uri>
+      <icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon>
+    </service:provider>
+    <activity:object>
+      <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+      <content type="text">rubenfonseca: @tiagosa definitely, it is on my todo list :/</content>
+      <link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/9004371457"/>
+    </activity:object>
+    <activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0">
+      <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+      <title type="text">rubenfonseca</title>
+      <poco:name>
+        <poco:givenName>Ruben</poco:givenName>
+        <poco:familyName>Fonseca</poco:familyName>
+      </poco:name>
+    </activity:actor>
+    <link href="http://twitter.com/rubenfonseca/statuses/9004371457"/>
+  </entry>
+  <entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <published>2010-02-12T11:02:02.000Z</published>
+    <updated>2010-02-12T11:02:02.000Z</updated>
+    <id>http://twitter.com/rubenfonseca/statuses/9004108144</id>
+    <title type="text">rubenfonseca: Another pair of AA batteries for the Magic Mouse please!</title>
+    <summary type="html">rubenfonseca: Another pair of AA batteries for the Magic Mouse please!</summary>
+    <service:provider>
+      <name>twitter</name>
+      <uri>http://twitter.com</uri>
+      <icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon>
+    </service:provider>
+    <activity:object>
+      <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+      <content type="text">rubenfonseca: Another pair of AA batteries for the Magic Mouse please!</content>
+      <link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/9004108144"/>
+    </activity:object>
+    <activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0">
+      <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+      <title type="text">rubenfonseca</title>
+      <poco:name>
+        <poco:givenName>Ruben</poco:givenName>
+        <poco:familyName>Fonseca</poco:familyName>
+      </poco:name>
+    </activity:actor>
+    <link href="http://twitter.com/rubenfonseca/statuses/9004108144"/>
+  </entry>
+  <entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <published>2010-02-12T10:43:12.000Z</published>
+    <updated>2010-02-12T10:43:12.000Z</updated>
+    <id>http://twitter.com/rubenfonseca/statuses/9003670777</id>
+    <title type="text">rubenfonseca: @changelogshow sure! will do, thank you :)</title>
+    <summary type="html">rubenfonseca: @changelogshow sure! will do, thank you :)</summary>
+    <service:provider>
+      <name>twitter</name>
+      <uri>http://twitter.com</uri>
+      <icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon>
+    </service:provider>
+    <activity:object>
+      <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+      <content type="text">rubenfonseca: @changelogshow sure! will do, thank you :)</content>
+      <link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/9003670777"/>
+    </activity:object>
+    <activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0">
+      <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+      <title type="text">rubenfonseca</title>
+      <poco:name>
+        <poco:givenName>Ruben</poco:givenName>
+        <poco:familyName>Fonseca</poco:familyName>
+      </poco:name>
+    </activity:actor>
+    <link href="http://twitter.com/rubenfonseca/statuses/9003670777"/>
+  </entry>
+  <entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <published>2010-02-12T10:34:51.000Z</published>
+    <updated>2010-02-12T10:34:51.000Z</updated>
+    <id>http://twitter.com/rubenfonseca/statuses/9003486173</id>
+    <title type="text">rubenfonseca: RT @pedro_mg: will have to speed up solar energy production at home. See... I have a wireless apple mouse and keyboard; perhaps a nuclea ...</title>
+    <summary type="html">rubenfonseca: RT @pedro_mg: will have to speed up solar energy production at home. See... I have a wireless apple mouse and keyboard; perhaps a nuclea ...</summary>
+    <service:provider>
+      <name>twitter</name>
+      <uri>http://twitter.com</uri>
+      <icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon>
+    </service:provider>
+    <activity:object>
+      <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+      <content type="text">rubenfonseca: RT @pedro_mg: will have to speed up solar energy production at home. See... I have a wireless apple mouse and keyboard; perhaps a nuclea ...</content>
+      <link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/9003486173"/>
+    </activity:object>
+    <activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0">
+      <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+      <title type="text">rubenfonseca</title>
+      <poco:name>
+        <poco:givenName>Ruben</poco:givenName>
+        <poco:familyName>Fonseca</poco:familyName>
+      </poco:name>
+    </activity:actor>
+    <link href="http://twitter.com/rubenfonseca/statuses/9003486173"/>
+  </entry>
+  <entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <published>2010-02-11T22:08:00.000Z</published>
+    <updated>2010-02-11T22:08:00.000Z</updated>
+    <id>http://twitter.com/rubenfonseca/statuses/8979943279</id>
+    <title type="text">rubenfonseca: @changelogshow is there an API or Firehose for the Github timeline? Can you give us more details about the tail implementation? thank you!</title>
+    <summary type="html">rubenfonseca: @changelogshow is there an API or Firehose for the Github timeline? Can you give us more details about the tail implementation? thank you!</summary>
+    <service:provider>
+      <name>twitter</name>
+      <uri>http://twitter.com</uri>
+      <icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon>
+    </service:provider>
+    <activity:object>
+      <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+      <content type="text">rubenfonseca: @changelogshow is there an API or Firehose for the Github timeline? Can you give us more details about the tail implementation? thank you!</content>
+      <link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/8979943279"/>
+    </activity:object>
+    <activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0">
+      <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+      <title type="text">rubenfonseca</title>
+      <poco:name>
+        <poco:givenName>Ruben</poco:givenName>
+        <poco:familyName>Fonseca</poco:familyName>
+      </poco:name>
+    </activity:actor>
+    <link href="http://twitter.com/rubenfonseca/statuses/8979943279"/>
+  </entry>
+  <entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <published>2010-02-11T21:38:43.000Z</published>
+    <updated>2010-02-11T21:38:43.000Z</updated>
+    <id>http://twitter.com/rubenfonseca/statuses/8978850067</id>
+    <title type="text">rubenfonseca: RT @fosdem: Video's coming online: http://video.fosdem.org/2010/</title>
+    <summary type="html">rubenfonseca: RT @fosdem: Video's coming online: http://video.fosdem.org/2010/</summary>
+    <service:provider>
+      <name>twitter</name>
+      <uri>http://twitter.com</uri>
+      <icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon>
+    </service:provider>
+    <activity:object>
+      <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+      <content type="text">rubenfonseca: RT @fosdem: Video's coming online: http://video.fosdem.org/2010/</content>
+      <link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/8978850067"/>
+    </activity:object>
+    <activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0">
+      <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+      <title type="text">rubenfonseca</title>
+      <poco:name>
+        <poco:givenName>Ruben</poco:givenName>
+        <poco:familyName>Fonseca</poco:familyName>
+      </poco:name>
+    </activity:actor>
+    <link href="http://twitter.com/rubenfonseca/statuses/8978850067"/>
+  </entry>
+  <entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <published>2010-02-11T20:57:10.000Z</published>
+    <updated>2010-02-11T20:57:10.000Z</updated>
+    <id>http://twitter.com/rubenfonseca/statuses/8977340054</id>
+    <title type="text">rubenfonseca: (clara de sousa)-- (#moura #guedes #wannabe)</title>
+    <summary type="html">rubenfonseca: (clara de sousa)-- (#moura #guedes #wannabe)</summary>
+    <service:provider>
+      <name>twitter</name>
+      <uri>http://twitter.com</uri>
+      <icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon>
+    </service:provider>
+    <activity:object>
+      <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+      <content type="text">rubenfonseca: (clara de sousa)-- (#moura #guedes #wannabe)</content>
+      <link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/8977340054"/>
+    </activity:object>
+    <activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0">
+      <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+      <title type="text">rubenfonseca</title>
+      <poco:name>
+        <poco:givenName>Ruben</poco:givenName>
+        <poco:familyName>Fonseca</poco:familyName>
+      </poco:name>
+    </activity:actor>
+    <link href="http://twitter.com/rubenfonseca/statuses/8977340054"/>
+  </entry>
+  <entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <published>2010-02-11T16:43:30.000Z</published>
+    <updated>2010-02-11T16:43:30.000Z</updated>
+    <id>http://twitter.com/rubenfonseca/statuses/8968055841</id>
+    <title type="text">rubenfonseca: @alcides pah isso cheira mesmo a treta de quem so la foi encaixar o cabo, e portanto inventou alta cena "frequencias" pra parecer dific&#xED;l :P</title>
+    <summary type="html">rubenfonseca: @alcides pah isso cheira mesmo a treta de quem so la foi encaixar o cabo, e portanto inventou alta cena "frequencias" pra parecer dific&#xED;l :P</summary>
+    <service:provider>
+      <name>twitter</name>
+      <uri>http://twitter.com</uri>
+      <icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon>
+    </service:provider>
+    <activity:object>
+      <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+      <content type="text">rubenfonseca: @alcides pah isso cheira mesmo a treta de quem so la foi encaixar o cabo, e portanto inventou alta cena "frequencias" pra parecer dific&#xED;l :P</content>
+      <link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/8968055841"/>
+    </activity:object>
+    <activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0">
+      <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+      <title type="text">rubenfonseca</title>
+      <poco:name>
+        <poco:givenName>Ruben</poco:givenName>
+        <poco:familyName>Fonseca</poco:familyName>
+      </poco:name>
+    </activity:actor>
+    <link href="http://twitter.com/rubenfonseca/statuses/8968055841"/>
+  </entry>
+  <entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <published>2010-02-11T16:22:50.000Z</published>
+    <updated>2010-02-11T16:22:50.000Z</updated>
+    <id>http://twitter.com/rubenfonseca/statuses/8967222405</id>
+    <title type="text">rubenfonseca: @alcides encaixou melhor o cabo foi? :P</title>
+    <summary type="html">rubenfonseca: @alcides encaixou melhor o cabo foi? :P</summary>
+    <service:provider>
+      <name>twitter</name>
+      <uri>http://twitter.com</uri>
+      <icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon>
+    </service:provider>
+    <activity:object>
+      <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+      <content type="text">rubenfonseca: @alcides encaixou melhor o cabo foi? :P</content>
+      <link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/8967222405"/>
+    </activity:object>
+    <activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0">
+      <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+      <title type="text">rubenfonseca</title>
+      <poco:name>
+        <poco:givenName>Ruben</poco:givenName>
+        <poco:familyName>Fonseca</poco:familyName>
+      </poco:name>
+    </activity:actor>
+    <link href="http://twitter.com/rubenfonseca/statuses/8967222405"/>
+  </entry>
+  <entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <published>2010-02-11T15:32:44.000Z</published>
+    <updated>2010-02-11T15:32:44.000Z</updated>
+    <id>http://twitter.com/rubenfonseca/statuses/8965196963</id>
+    <title type="text">rubenfonseca: feeling sick :/</title>
+    <summary type="html">rubenfonseca: feeling sick :/</summary>
+    <service:provider>
+      <name>twitter</name>
+      <uri>http://twitter.com</uri>
+      <icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon>
+    </service:provider>
+    <activity:object>
+      <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+      <content type="text">rubenfonseca: feeling sick :/</content>
+      <link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/8965196963"/>
+    </activity:object>
+    <activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0">
+      <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+      <title type="text">rubenfonseca</title>
+      <poco:name>
+        <poco:givenName>Ruben</poco:givenName>
+        <poco:familyName>Fonseca</poco:familyName>
+      </poco:name>
+    </activity:actor>
+    <link href="http://twitter.com/rubenfonseca/statuses/8965196963"/>
+  </entry>
+  <entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <published>2010-02-11T14:07:50.000Z</published>
+    <updated>2010-02-11T14:07:50.000Z</updated>
+    <id>http://twitter.com/rubenfonseca/statuses/8961937819</id>
+    <title type="text">rubenfonseca: @sergio definitely! also the "privacy flaw" that shows the people I email the most is a huge #fail for google :/</title>
+    <summary type="html">rubenfonseca: @sergio definitely! also the "privacy flaw" that shows the people I email the most is a huge #fail for google :/</summary>
+    <service:provider>
+      <name>twitter</name>
+      <uri>http://twitter.com</uri>
+      <icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon>
+    </service:provider>
+    <activity:object>
+      <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+      <content type="text">rubenfonseca: @sergio definitely! also the "privacy flaw" that shows the people I email the most is a huge #fail for google :/</content>
+      <link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/8961937819"/>
+    </activity:object>
+    <activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0">
+      <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+      <title type="text">rubenfonseca</title>
+      <poco:name>
+        <poco:givenName>Ruben</poco:givenName>
+        <poco:familyName>Fonseca</poco:familyName>
+      </poco:name>
+    </activity:actor>
+    <link href="http://twitter.com/rubenfonseca/statuses/8961937819"/>
+  </entry>
+  <entry xmlns:service="http://activitystrea.ms/service-provider" xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <published>2010-02-11T14:05:13.000Z</published>
+    <updated>2010-02-11T14:05:13.000Z</updated>
+    <id>http://twitter.com/rubenfonseca/statuses/8961842488</id>
+    <title type="text">rubenfonseca: I'm convinced that in some companies, you are required to nag your friends every month to work for the company to receive your salary</title>
+    <summary type="html">rubenfonseca: I'm convinced that in some companies, you are required to nag your friends every month to work for the company to receive your salary</summary>
+    <service:provider>
+      <name>twitter</name>
+      <uri>http://twitter.com</uri>
+      <icon>http://cliqset-services.s3.amazonaws.com/twitter.png</icon>
+    </service:provider>
+    <activity:object>
+      <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+      <content type="text">rubenfonseca: I'm convinced that in some companies, you are required to nag your friends every month to work for the company to receive your salary</content>
+      <link rel="alternate" type="text/html" href="http://twitter.com/rubenfonseca/statuses/8961842488"/>
+    </activity:object>
+    <activity:actor xmlns:poco="http://portablecontacts.net/spec/1.0">
+      <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+      <title type="text">rubenfonseca</title>
+      <poco:name>
+        <poco:givenName>Ruben</poco:givenName>
+        <poco:familyName>Fonseca</poco:familyName>
+      </poco:name>
+    </activity:actor>
+    <link href="http://twitter.com/rubenfonseca/statuses/8961842488"/>
+  </entry>
+</feed>

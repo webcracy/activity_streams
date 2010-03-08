@@ -50,6 +50,11 @@ module ActivityStreams
       res.raw_structure.entries.each do |entry|
         e = Hashie::Mash.new
         
+        # entry atom fields
+        e[:id] = entry.id
+        e[:published] = entry.published
+        e[:title] = entry.title
+        
         # verbs
         e.verbs = []
         entry.activity_verbs.each do |verb|
@@ -94,38 +99,47 @@ module ActivityStreams
       res.raw_structure = JSON.parse(json)
       res.entries = []
       
-      res.raw_structure.map { |x| x['activity'] }.delete_if(&:nil?).each do |entry|
+      res.raw_structure.delete_if { |x| x['activity'].nil? }.each do |item|
         e = Hashie::Mash.new
         
-        # verbs
-        e.verbs = []
-        entry['verbs'] && entry['verbs'].each do |verb|
-          e.verbs << verb
+        # id, title, published
+        if(entry = item['entry'])
+          e.id = entry['id']
+          e.title = entry['title']
+          e.published = DateTime.parse(entry['published']).feed_utils_to_gm_time rescue nil
         end
         
-        # actor, target, context
-        [:actor, :target, :context].each do |area|
-          e[:actor]   ||= Hashie::Mash.new
-          e[:target]  ||= Hashie::Mash.new
-          e[:context] ||= Hashie::Hash.new
+        if(entry = item['activity'])
+          # verbs
+          e.verbs = []
+          entry['verbs'] && entry['verbs'].each do |verb|
+            e.verbs << verb
+          end
+        
+          # actor, target, context
+          [:actor, :target, :context].each do |area|
+            e[:actor]   ||= Hashie::Mash.new
+            e[:target]  ||= Hashie::Mash.new
+            e[:context] ||= Hashie::Hash.new
           
-          [:id, :links, :object_types, :title, :author, :content].each do |attr|
-            unless entry.send(:[], area.to_s).nil?
-              json_attr = attr.to_s.gsub(/\_(\w)/) { $1.upcase }
-              e.send(:[], area).send(:[]=, attr, entry.send(:[], area.to_s).send(:[], json_attr))
+            [:id, :links, :object_types, :title, :author, :content].each do |attr|
+              unless entry.send(:[], area.to_s).nil?
+                json_attr = attr.to_s.gsub(/\_(\w)/) { $1.upcase }
+                e.send(:[], area).send(:[]=, attr, entry.send(:[], area.to_s).send(:[], json_attr))
+              end
             end
           end
-        end
         
-        # objects
-        e.objects = []
-        entry['objects'] && entry['objects'].each do |object|
-          o = Hashie::Mash.new
-          [:id, :links, :object_types, :title, :author, :content].each do |attr|
-            json_attr = attr.to_s.gsub(/\_(\w)/) { $1.upcase }
-            o[attr] = object.send(:[], json_attr)
+          # objects
+          e.objects = []
+          entry['objects'] && entry['objects'].each do |object|
+            o = Hashie::Mash.new
+            [:id, :links, :object_types, :title, :author, :content].each do |attr|
+              json_attr = attr.to_s.gsub(/\_(\w)/) { $1.upcase }
+              o[attr] = object.send(:[], json_attr)
+            end
+            e.objects << o
           end
-          e.objects << o
         end
         
         res.entries << e

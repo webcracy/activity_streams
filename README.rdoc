@@ -12,6 +12,7 @@ Example usage:
   twitter = 'http://api.cliqset.com/feed/?svcuser=rubenfonseca&feedid=twitternotesposted'
   feed = ActivityStreams::Feed.from_xml(open(twitter).read)
   feed.entries.size #=> 20
+  feed.entries.first.id = "http://twitter.com/rubenfonseca/statuses/10075665287"
   feed.entries.first.verbs.size #=> 1
   feed.entries.first.verbs.first #=> "http://activitystrea.ms/schema/1.0/post"
   ...

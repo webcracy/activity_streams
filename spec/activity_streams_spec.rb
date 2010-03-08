@@ -14,6 +14,13 @@ describe "ActivityStreams", "twitter" do
     @feed.entries.size.should == 20
   end
   
+  it "should have id, title and published on the first entry" do
+    entry = @feed.entries.first
+    entry.id.should == "http://twitter.com/rubenfonseca/statuses/9108531677"
+    entry.title.should == "rubenfonseca: @microft humm what about dropbox?"
+    entry.published.class.should == Time
+  end
+  
   it "should have a list of activity:verb on the first entry" do
     verbs = @feed.entries.first.verbs
     verbs.class.should == Array
@@ -62,6 +69,12 @@ describe "ActivityStreams", "lastfm" do
   
   it "should have 10 entries" do
     @feed.entries.size.should == 10
+  end
+  
+  it "should have tite, id and published on each entry" do
+    @feed.entries.first.title.should == "Alicia Keys – Sure Looks Good To Me"
+    @feed.entries.first.id.should == "http://www.last.fm/user/krani1#1266166889"
+    @feed.entries.first.published.class.should == Time
   end
   
   it "should have a list of activity:verb on the first entry" do
@@ -114,6 +127,12 @@ describe ActivityStreams, "myspace" do
   it "should have 1 entry" do
     @feed.entries.size.should == 1
   end
+  
+  it "should have tite, id and published on each entry" do
+    @feed.entries.first.title.should == "Someone posted a photo"
+    @feed.entries.first.id.should == "11923759128375912735912"
+    @feed.entries.first.published.class.should == Time
+  end  
   
   it "should have a list of activity:verb on the first entry" do
     verbs = @feed.entries.first.verbs
