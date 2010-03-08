@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = %q{activity_streams}
-  s.version = "0.0.0"
+  s.version = "0.2.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Ruben Fonseca"]
-  s.date = %q{2010-02-23}
+  s.date = %q{2010-03-08}
   s.description = %q{Ruby module to eat and parse ActivityStreams in various formats}
   s.email = %q{root@cpan.org}
   s.extra_rdoc_files = [
@@ -23,10 +23,17 @@ Gem::Specification.new do |s|
      "README.rdoc",
      "Rakefile",
      "VERSION",
+     "activity_streams.gemspec",
      "lib/activity_streams.rb",
+     "lib/activity_streams/common_fields.rb",
+     "lib/activity_streams/feedzirra_patches.rb",
+     "lib/activity_streams/portable_contact.rb",
      "spec/activity_streams_spec.rb",
+     "spec/lastfm.xml",
+     "spec/myspace.json",
      "spec/spec.opts",
-     "spec/spec_helper.rb"
+     "spec/spec_helper.rb",
+     "spec/twitter.xml"
   ]
   s.homepage = %q{http://github.com/rubenfonseca/activity_streams}
   s.rdoc_options = ["--charset=UTF-8"]
